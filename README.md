@@ -1,2 +1,4 @@
 # Smart-Contact-Manager
 Manages the user contacts
+<br>
+Author : Kumar
